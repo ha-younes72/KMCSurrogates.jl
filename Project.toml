@@ -12,6 +12,7 @@ NNlib = "872c559c-99b0-510c-b3b7-b6c96a88d5cd"
 Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
 
 [compat]
+NNlib = "0.8"
 julia = "1"
 
 [extras]
